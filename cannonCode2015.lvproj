@@ -42,6 +42,9 @@
 			</Item>
 			<Item Name="FRC Simulated.xml" Type="Document" URL="../FRC Simulated.xml"/>
 		</Item>
+		<Item Name="Resources" Type="Folder">
+			<Item Name="MXP Addressing.pdf" Type="Document" URL="../MXP Addressing.pdf"/>
+		</Item>
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
